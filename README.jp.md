@@ -24,16 +24,16 @@
 
 ## 解析
 
- - gcviewer
+ - GCViewer
  - ISA5
- - samurai
+ - Samurai
  - HeapStats
  - ENdoSnipe
- - visualvm
- - jconsole
+ - VisualVM
+ - JConsole
  - Flight Recorder
- - procexp64
- - eclipse MA
+ - Process Explorer
+ - Eclipse Memory Analyzer (MAT)
 
 ## リロード
 
