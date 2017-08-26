@@ -12,6 +12,7 @@
 
  - pstack
  - netstat
+ - tcpdump
 
 ## 逆コンパイル
 
@@ -44,10 +45,9 @@
 
 ## パケット解析
 
- - tcpdump
  - Wireshark
 
-## ブラウザ
+## ブラウザ開発ツール
 
  - FireBugs
 
@@ -58,7 +58,9 @@
  - [FindBugs](http://findbugs.sourceforge.net/): 静的解析を使用してJavaコードのバグを探すプログラムです。
  - SpotBugs
  - CheckStyle
+ - jSparrow
  - Infer
+ - [AutoRefactor](http://autorefactor.org/)
 
 ## 脆弱性解析
 
