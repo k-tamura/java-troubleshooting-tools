@@ -2,6 +2,17 @@
 
 便利なJavaトラブルシューティングツールをリストアップします。
 
+## JDKコマンド
+
+ - jps
+ - jstack
+ - jmap
+
+## OSコマンド
+
+ - pstack
+ - netstat
+
 ## 逆コンパイル
 
  - jd-gui
@@ -31,11 +42,6 @@
  - IntelliJ
  - Netbeans
 
-## OSコマンド
-
- - pstack
- - netstat
-
 ## パケット解析
 
  - tcpdump
@@ -57,12 +63,6 @@
 ## 脆弱性解析
 
  - OWASP ZAP
-
-## JDKコマンド
-
- - jps
- - jstack
- - jmap
 
 ## その他
 
