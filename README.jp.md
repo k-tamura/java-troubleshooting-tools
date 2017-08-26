@@ -24,6 +24,8 @@
  - gcviewer
  - ISA5
  - samurai
+ - HeapStats
+ - ENdoSnipe
  - visualvm
  - jconsole
  - Flight Recorder
