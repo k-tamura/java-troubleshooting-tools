@@ -16,11 +16,14 @@
  - pstack
  - netstat
  - tcpdump
+ - tail
 
 ## 逆コンパイル
 
  - jd-gui
+ - JD-Eclipse
  - jad
+ - JadClipse
 
 ## 解析
 
