@@ -50,6 +50,11 @@
 ## ブラウザ開発ツール
 
  - FireBugs
+ 
+## Javaコンテナ管理
+
+ - PSI Probe
+ - Tomcat Manager
 
 ## 静的コード解析
 
