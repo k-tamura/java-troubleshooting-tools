@@ -1,3 +1,7 @@
+# Javaトラブルシューティングツール
+
+便利なJavaトラブルシューティングツールをリストアップします。
+
 ## 逆コンパイル
 
  - jd-gui
@@ -45,7 +49,7 @@
 
  - Sonarqube
  - SonarLint
- - FindBugs
+ - [FindBugs](http://findbugs.sourceforge.net/): 静的解析を使用してJavaコードのバグを探すプログラムです。
  - SpotBugs
  - CheckStyle
  - Infer
