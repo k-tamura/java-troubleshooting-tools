@@ -4,9 +4,12 @@
 
 ## JDKコマンド
 
+ - jhat
+ - jinfo
+ - jmap
  - jps
  - jstack
- - jmap
+ - jstat
 
 ## OSコマンド
 
