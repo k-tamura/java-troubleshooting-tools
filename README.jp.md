@@ -46,8 +46,8 @@ TODO 現在作成中
  - ISA5
  - Samurai
  - HeapStats
- - ENdoSnipe
- - Process Explorer
+ - [ENdoSnipe](https://github.com/endosnipe/ENdoSnipe)
+ - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
  - Eclipse Memory Analyzer (MAT)
 
 ## リロード
