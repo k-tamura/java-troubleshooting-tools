@@ -4,21 +4,31 @@ TODO 現在作成中
 
 便利なJavaトラブルシューティングツールをリストアップします。
 
-## JDKコマンド
+## JDK標準コマンド
 
+ - jcmd
+ - jconsole
  - jhat
  - jinfo
  - jmap
  - jps
  - jstack
  - jstat
+ - jvisualvm
 
-## OSコマンド
+## OSコマンド (Linux)
 
- - pstack
+ - iostat
  - netstat
+ - pstack
  - tcpdump
  - tail
+ - vmstat
+
+## OSコマンド (Windows)
+
+ - netstat
+ - typepref
 
 ## 逆コンパイル
 
@@ -65,6 +75,12 @@ TODO 現在作成中
 
  - PSI Probe
  - Tomcat Manager
+ 
+## サーバー監視
+
+ - Mackerel
+ - Metrics
+ - Micrometer
 
 ## 静的コード解析
 
