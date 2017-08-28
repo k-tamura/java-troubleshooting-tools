@@ -7,20 +7,23 @@ TODO 現在作成中
 ## JDK標準コマンド
 
  - jcmd
- - jconsole
+ - jconsole (JConsole)
  - jhat
  - jinfo
  - jmap
+ - jmc (Java Mission Control)
  - jps
  - jstack
  - jstat
- - jvisualvm
+ - jvisualvm (VisualVM)
 
 ## OSコマンド (Linux)
 
  - iostat
  - netstat
+ - nicstat
  - pstack
+ - sar
  - tcpdump
  - tail
  - vmstat
@@ -44,9 +47,6 @@ TODO 現在作成中
  - Samurai
  - HeapStats
  - ENdoSnipe
- - VisualVM
- - JConsole
- - Flight Recorder
  - Process Explorer
  - Eclipse Memory Analyzer (MAT)
 
@@ -96,7 +96,12 @@ TODO 現在作成中
 ## 脆弱性解析
 
  - OWASP ZAP
+ 
+## ロードジェネレータ
 
+ - JMeter
+ - Faban
+ 
 ## その他
 
  - Byteman
