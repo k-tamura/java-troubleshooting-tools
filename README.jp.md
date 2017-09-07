@@ -22,6 +22,7 @@ TODO 現在作成中
  - iostat
  - netstat
  - nicstat
+ - ps
  - pstack
  - sar
  - tcpdump
@@ -32,6 +33,10 @@ TODO 現在作成中
 
  - netstat
  - typepref
+
+## 監視
+
+ - タスクマネージャー (Windows)
 
 ## 逆コンパイル
 
